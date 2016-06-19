@@ -12,7 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let table =  Solution.romanToIntTable
+        let value =  Solution2().romanToInt("DCXXI")
+        print(value)
 //        for (key, value) in table{
 //            print("\"\(key)\":\(value),")
 //        }

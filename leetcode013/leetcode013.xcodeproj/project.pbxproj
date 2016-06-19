@@ -15,6 +15,7 @@
 		51EB48B81D1673BE00ECF903 /* leetcode013Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51EB48B71D1673BE00ECF903 /* leetcode013Tests.swift */; };
 		51EB48C31D1673BE00ECF903 /* leetcode013UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51EB48C21D1673BE00ECF903 /* leetcode013UITests.swift */; };
 		51EB48D11D1673DE00ECF903 /* Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51EB48D01D1673DE00ECF903 /* Solution.swift */; };
+		51EB48D41D16B65400ECF903 /* Solution2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51EB48D31D16B65400ECF903 /* Solution2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		51EB48C41D1673BE00ECF903 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		51EB48D01D1673DE00ECF903 /* Solution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Solution.swift; sourceTree = "<group>"; };
 		51EB48D21D167F6000ECF903 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
+		51EB48D31D16B65400ECF903 /* Solution2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Solution2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				51EB48AE1D1673BE00ECF903 /* Info.plist */,
 				51EB48D01D1673DE00ECF903 /* Solution.swift */,
 				51EB48D21D167F6000ECF903 /* MyPlayground.playground */,
+				51EB48D31D16B65400ECF903 /* Solution2.swift */,
 			);
 			path = leetcode013;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				51EB48A51D1673BE00ECF903 /* ViewController.swift in Sources */,
+				51EB48D41D16B65400ECF903 /* Solution2.swift in Sources */,
 				51EB48A31D1673BE00ECF903 /* AppDelegate.swift in Sources */,
 				51EB48D11D1673DE00ECF903 /* Solution.swift in Sources */,
 			);
